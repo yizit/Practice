@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YizitPractical", "YizitPractical\YizitPractical.csproj", "{CDE60D52-F6ED-4BD3-8F8B-71171767D2CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YizitPractical", "YizitPractical\YizitPractical.csproj", "{CDE60D52-F6ED-4BD3-8F8B-71171767D2CF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "题目1", "题目1", "{6A8970FC-10BB-4BE7-B9A3-A81368C17BA3}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question1", "Question1", "{BD1E27D8-91DB-4178-9356-B377DC704124}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "题目2", "题目2", "{5B280BCE-C362-485A-A788-1E02978070D0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question2", "Question2", "{F1C6A313-3365-4BF9-ACEB-C6BCD117BA39}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "题目3", "题目3", "{3D8FB0A4-9B2C-437A-AD3C-EE934860797B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question3", "Question3", "{38DF1C2C-EC4D-4D54-84F1-728029DCDAEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question4", "Question4", "{3E63A6E3-5B18-43BB-8DF9-4FB7CA87B1B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Question5", "Question5", "{D16786B3-9450-403B-AA78-83CD45F78071}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
